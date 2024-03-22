@@ -1,0 +1,33 @@
+# TRABAJO 1
+## - Conclusiones de clase pasada 
+En equipo trabajamos para realizar una lluvia de ideas con tal de encontrar el tema adecuado para nuestro proximo proyecto. El desarrollo de este proceso se hizo en [MIRO](https://miro.com/app/board/uXjVKeaL48s=/)
+
+De estas rescato las más prometedoras: 
+
+### _Música clásica, jazz y su supervivencia en la actualidad_
+Este tema lo consideramos ya que nos dimos cuenta de la importante relevancia que han vuelto a tener estos géneros musicales. 
+
+Por un lado el jazz ha tomado nuevos espacios como bares, eventos y clubes llegando cada vez a más gente. A su vez de a poco esta parte de la nueva cultura Santiaguina se ha vuelto un panorama el cual considerar 
+
+Como ejemplos tenemos: 
+
+![Bar Grez](data:image/png;base64,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) 
+
+
+Un bar que hace noches de Jazz con musicos de todas parte e invita a su publico a participar de los espacios musicales 
+
+### _El fenómeno de Barbie_ 
+
+Barbie rompió en taquilla y creció en los corazones de las personas que entendieron el mensaje de la película. Su popularidad hizo que se crearan ciertos movimientos sociales y tendencias que giraban en torno al color rosa, a la personaje principal, Margot Robbie y a la compra y venta de la muñecas de esta marca. 
+
+![Margot Robbie](https://www.parismatch.com/lmnr/r/960,640,FFFFFF,forcex,center-middle/img/var/pm/public/styles/paysage/public/media/image/2023/07/26/13/sipa_sipausa31622910_000035.jpg?VersionId=.EoL1JC0bpB4C.V7BDOPLHQzf5wsH_i5)
+
+Puedes saber más detalle sobre esto [Aquí!](https://www.almendron.com/tribuna/el-fenomeno-barbie-y-sus-multiples-paradojas/)
+
+### _La relevancia y exactitud con las cuales se mueven las tendencias de moda_ 
+
+Queremos abordar este tema desde la vision de que las redes sociales se han convertido en plataformas que impulsan las modas y el consumo inmediato de trends. 
+
+por otro lado, gente adepta en este tema como lo es la moda usan estas vias de comunicacion para hacer predicciones sobre lo que estará resoanado en la temporada
+
+[![Alt text](https://img.youtube.com/vi/Z3Rrk5XUOcE/0.jpg)](https://www.youtube.com/watch?v=Z3Rrk5XUOcE)
